@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am not an Alien
 
+### We are Earthians, let's Fight Aliens, Liberate Solar System!
+
 ![image](https://shu.git.xin/solarsystem.png)
 
 <!--
