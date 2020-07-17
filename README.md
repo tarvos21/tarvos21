@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am not an Alien
 
 ![image](https://shu.git.xin/solarsystem.png)
+
+<!--
 ![image](https://shu.git.xin/kouhao.png)
+-->
