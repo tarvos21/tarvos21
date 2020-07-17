@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on [SegmentFault](https://SegmentFault.com) as Front-End Developer
-- 🌱 I’m currently learning Rust, Svelte, MongoDB and Serverless
+- 🌱 I’m currently learning Rust, WebAssembly, Svelte, MongoDB and Serverless
 - 👯 I’m looking to collaborate on reliable, high-performance, and rock-solid projects
 - 🤔 I’m looking for help with selling, marketing and fund-raising
 - 💬 Ask me about Front-End Web development, WeChat mini program, China, Buddhism, Philosophy, Literature
