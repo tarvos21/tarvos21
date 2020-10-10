@@ -7,6 +7,8 @@ Here are some ideas to get you started:
 
 -->
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&count_private=true)
+
 
 - 🔭 I’m currently working as Front-End Developer
 - 🌱 I’m currently learning Rust, WebAssembly, Svelte, MongoDB and Serverless
@@ -24,3 +26,5 @@ Here are some ideas to get you started:
 <!--
 ![image](https://shu.git.xin/kouhao.png)
 -->
+
+
