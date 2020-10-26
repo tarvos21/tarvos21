@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tarvos21&show_icons=true&theme=radical&count_private=true)
 
 
-- 🔭 I’m currently working as Front-End Developer
+- 🔭 I’m currently working as Front-End Developer at [ChainX.org](https://chainx.org)
 - 🌱 I’m currently learning Rust, WebAssembly, Svelte, MongoDB and Serverless
 - 👯 I’m looking to collaborate on reliable, high-performance, and rock-solid projects
 - 🤔 I’m looking for help with selling, marketing and fund-raising
