@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working as Front-End Developer at [Starcoin.org](https://starcoin.org)
-- 🌱 I’m currently learning Blokchain, DeFi, Polkadot, Ethereum, Rust, WebAssembly, Svelte, MongoDB and Serverless
+- 🌱 I’m currently learning Blokchain, Diem(Libra), DeFi, Polkadot, Ethereum, Rust, WebAssembly, Svelte, MongoDB and Serverless
 - 👯 I’m looking to collaborate on reliable, high-performance and high-impact projects
 - 🤔 I’m looking for help with selling and marketing
 - 💬 Ask me about Front-End Web development, DeFi, Blockchain explorer, WeChat mini program, China, Buddhism, Philosophy, Literature
