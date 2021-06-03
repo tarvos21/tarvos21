@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Blokchain, Diem(Libra), DeFi, Swap, Polkadot, Bitcoin, Ethereum, Rust, WebAssembly, Svelte, MongoDB and Serverless
 - 👯 I’m looking to collaborate on reliable, high-performance and high-impact projects
 - 🤔 I’m looking for help with selling and marketing
+- 📖 I have graduated from Zhejiang University, it's nice to know some Alumnus here
 - 💬 Ask me about Full-stack and Front-End Web development, DeFi, Blockchain explorer, WeChat mini program, Existentialism, China, Buddhism, Philosophy, Literature
 - 📫 How to reach me: tarvos21@gmail.com, +86-158-2748-9751
 - 😄 Pronouns: He
