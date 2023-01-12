@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-![bing's github stats](https://github-readme-stats.vercel.app/api?username=tarvos21&show_icons=true&theme=radical&count_private=true)
+![bing's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tarvos21&show_icons=true&theme=radical&count_private=true)
 
 
 - 🔭 I’m currently working as Front-End Developer
